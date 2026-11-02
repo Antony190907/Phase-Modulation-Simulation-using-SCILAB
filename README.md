@@ -3,7 +3,7 @@
 
 **AIM:**
 
-To write a program for Phase Modulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
+To write a program for Phase Modulation using SCILAB and to observe and measure the frequency deviation and the modulation index of PM.
 
 **APPARATUS REQUIRED:**
 
